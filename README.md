@@ -39,20 +39,11 @@ The repository includes various visualizations that offer insights into the data
 
 🚀 𝗛𝗼𝘄 𝘁𝗼 𝗥𝘂𝗻:
 
-Clone the repository:
-
-Download
-Copy
-git clone https://github.com/191fa04431/student-mental-health-analysis.git
-cd student-mental-health-analysis
+--> clone this repository.
 
 Install Dependencies:
 
 Use pip or conda to install the necessary libraries:
-
-Download
-Copy
-pip install -r requirements.txt
 
 𝗥𝘂𝗻 𝘁𝗵𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:
 
