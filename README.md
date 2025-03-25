@@ -4,7 +4,7 @@
 
 • This repository contains analysis and visualizations of a student mental health dataset gathered from university students. The dataset includes demographic information, academic performance indicators, and mental health responses. The goal of this project is to explore patterns in mental health with respect to gender, age, academic year, and academic performance.
 
-📊 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
+📊 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
 
 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗗𝗶𝗺𝗲𝗻𝘀𝗶𝗼𝗻𝘀:
 
